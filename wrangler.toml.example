@@ -1,0 +1,11 @@
+name = "nexus-ai-api"
+main = "index.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+FIREBASE_PROJECT_ID = "nexus-a-c0167"
+ALLOWED_ORIGINS = "https://VOTRE-PSEUDO.github.io"
+
+[[kv_namespaces]]
+binding = "PROVIDERS"
+id = "REMPLACER_PAR_ID_KV"
